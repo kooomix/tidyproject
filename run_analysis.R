@@ -76,6 +76,6 @@ names(Merged_DS) <- gsub("BodyBody","Body",names(Merged_DS))
 
 #5. From the data set in step 4, creates a second, independent tidy data set with the average 
 #of each variable for each activity and each subject.
-Merged_DS2 <- aggregate(.~subject_id + activity_label, Merged_DS, mean)
+Tidy_data <- aggregate(.~subject_id + activity_label, Merged_DS, mean)
 write.table(Merged_DS2, "tidydata.txt", row.name=FALSE)
 
