@@ -15,16 +15,16 @@ Read here (features_info.txt) for more informations about the variables collecte
 activity_labels - loaded with the names of the labels from activiti_labels.txt file.
 
 # Load and genreate test table
-x_test - loaded with x_test.txt file data, after filtering mean and std measurments.
-y_test - loaded with y_test.txt file data with an additional column mapping the activity label name to their ids.
-subject_test - loaded with test/subject_test.txt file data.
-Merged_test - holds a column Binding of subject_test, y_test and x_test.
+x_test - loaded with x_test.txt file data, after filtering mean and std measurments.</br>
+y_test - loaded with y_test.txt file data with an additional column mapping the activity label name to their ids. </br>
+subject_test - loaded with test/subject_test.txt file data. </br>
+Merged_test - holds a column Binding of subject_test, y_test and x_test.</br>
 
 # Load and generate train table
-x_train - loaded with x_train.txt file data, after filtering mean and std measurments.
-y_train - loaded with of y_train.txt data with an additional column mapping the activity label name to their ids.
-subject_train - loaded with train/subject_train.txt file data.
-Merged_test - hold a column Binding of subject_train, y_train and x_train.
+x_train - loaded with x_train.txt file data, after filtering mean and std measurments.</br>
+y_train - loaded with of y_train.txt data with an additional column mapping the activity label name to their ids.</br>
+subject_train - loaded with train/subject_train.txt file data. </br>
+Merged_test - hold a column Binding of subject_train, y_train and x_train. </br>
 
 # Merge test and train
 Merged_DS - holds a row binding of Merged_test and Merged_train.
