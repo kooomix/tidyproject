@@ -1,11 +1,5 @@
 
-<<<<<<< HEAD
-ddd
-Overview
-=======
-
 # Overview
->>>>>>> 2259e9da6d862c4cdc9acf4f5de045c5af0072fb
 This file describes how the run_analysis.r scripts works.
 The purpose of the script is to fulfill assigments of cousera course project of "Getting and Cleaning Data Course Project".
 
