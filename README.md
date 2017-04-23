@@ -1,5 +1,5 @@
 
-
+ddd
 Overview
 This file describes how the run_analysis.r scripts works.
 The purpose of the script is to fulfill assigments of cousera course project of "Getting and Cleaning Data Course Project".
