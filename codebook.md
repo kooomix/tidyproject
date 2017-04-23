@@ -7,8 +7,8 @@ The data linked from the course website represent data collected from the accele
 
 Process of code described by phases, in each there's a description of each dataset within the code and manipulations done on it.
 
-Read here (README.txt) for more information about how the original data was collected, the meaning of variables and files included.
-Read here (features_info.txt) for more informations about the variables collected.
+Read here ([README.txt](README.txt)) for more information about how the original data was collected, the meaning of variables and files included. </br>
+Read here ([features_info.txt](features_info.txt)) for more informations about the variables collected.
 
 
 # Loading and Merging Data
